@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
-* Студент: [Дмитрий Дубовцев](https://up.htmlacademy.ru/ecmascript/17/user/931167).
-* Наставник: `Неизвестно`.
+* Студент: [Дмитрий Дубовцев](https://htmlacademy.ru/profile/id931167).
+* Наставник: [Сергей Карпов](https://htmlacademy.ru/profile/id518893).
 
 ---
 
